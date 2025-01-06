@@ -32,6 +32,7 @@ Prisma: ORM
  
  WEBHOOK_SIGNIN_SECRET = ##########################################
 3 Run the development server: npm run dev
+![E-Commerce-UI](https://github.com/user-attachments/assets/5ffc0322-92fe-4a3e-b5ac-c9722ed60605)
 
-![E-Commerce-UI](https://github.com/user-attachments/assets/7e0ba326-1aaf-4181-b44c-1300ef8630e6)
+)
 
